@@ -1,0 +1,6 @@
+What is Middleware?
+Термин middleware обозначает небольшие компоненты приложения, которые могут быть внедрены в конвейер обработки HTTP-запроса. 
+В ASP.NET Core для подключения компонентов middleware используется метод Configure из класса Startup.
+https://metanit.com/sharp/aspnet5/2.2.php
+
+What is TagHelpers?
