@@ -4,3 +4,18 @@ What is Middleware?
 https://metanit.com/sharp/aspnet5/2.2.php
 
 What is TagHelpers?
+for example: <a asp-page="Create"> => <a href="Create">
+
+What is ModelState.IsValid?
+Проверяет заполнены ли поля required и т.д.
+
+What is [BindProperty], [TempData]?
+What is {id:int?}/{handler?}?
+What is &nbsp;?
+
+PM commands:
+add-migration addBookToDB
+update-database
+
+use System.ComponentModel.DataAnnotaions; ([Required])
+Зачем label asp-for?
